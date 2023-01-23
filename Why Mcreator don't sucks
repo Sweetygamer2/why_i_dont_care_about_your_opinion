@@ -27,6 +27,7 @@ OVER-SIMPLIFIES CODE
   I also see some haters saying "It's useless for programming". Then why did i saw multiple times devs looking at the way Mcreator is adding some stuff to implement it ?
   Or many famous developpers or teams using it as a way to create sketchs of ideas or concepts (Endergetic, Infernal Studios, etc) ? 
   I mean modders NEVER check google to look at how to add something, they are borned with an infinite omniscient knowledge making them beings above us poor mortals
+  "It's not optimised" it's impossible for a software like this to be fully optimised and the performance impact is most of the time negligable
 
 ALLOWS FOR CRAPPY, GENERIC MODS
   So Mcreator invented unoriginal low quality mods ? Just take a look at some of the most popular MC mods. The only reason why they are popular today is because they are
@@ -48,10 +49,10 @@ CLOSED-SYSTEM
 
 VERY HARD TO CATCH AND FIX ERRORS
   Simply false. You most of the time get the procedure creating the issue, from a MCR dev perspective it's really easy to debug. If they have clear names, it's 
-  easy to understand what's causing it
+  easy to understand what's causing it. If you can't understand errors that i can interpret, you should question your "knowledge"...
 
 HAVE TO BIDE BY THE PROGRAM'S TOS
-  Again some fear sophism, i mean that's the case for everything you use daily online... Stop using Github, Google, Discord...
+  Again some fear sophism, i mean that's the case for everything you use daily online... Stop using Github, Google, Discord
 
 WHAT / WHO IS MCREATOR DESIGNED FOR?
   Wait you're deciding who have the RIGHT to use a software ? Who are you thinking you are lmao ? 
@@ -59,6 +60,13 @@ WHAT / WHO IS MCREATOR DESIGNED FOR?
 EXCUSES THAT DO NOT WORK
   That's crazy how much irrespect you can put in here xD Because you didn't touched grass when you were 12yo don't mean that everybody should. You know Mcreator
   users can make life choices without being constantly harrased because you're considering them as lazy ?
+
+OTHER
+  "Mcreator bad performance issue/broken/bugged" 
+    -> It was probably used by someone not using the tool the right way. Blame the modder, not the software. Mcreator is a tool requiering some understanding of basic
+       concepts like ticks or block update that many user could not understand properly, resulting in laggy mods.
+  "The code is awful to read"
+    -> Not in recent versions, if i can understand it with my limited java knowledge you're the issue
 
 WHAT MCREATOR CONTRIBUTED TO DO
   - Making more players interested in modding
